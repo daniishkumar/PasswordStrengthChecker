@@ -50,27 +50,27 @@ The password is evaluated using the following checks:
 
 ### Main Interface
 
-![Main Interface](screenshots/Home.png)
+![Main Interface](Screenshots/Home.png)
 
 ### Weak Password Detection
 
-![Weak Password](screenshots/Weak.png)
+![Weak Password](Screenshots/Weak.png)
 
 ### Common Password Detection
 
-![Common Password](screenshots/Common.png)
+![Common Password](Screenshots/Common.png)
 
 ### Medium Password Detection
 
-![Medium Password](screenshots/Medium.png)
+![Medium Password](Screenshots/Medium.png)
 
 ### Strong Password Detection
 
-![Strong Password](screenshots/Strog.png)
+![Strong Password](Screenshots/Strong.png)
 
 ### Very Strong Password Detection
 
-![Very Strong Password](screenshots/VeryStrong.png)
+![Very Strong Password](Screenshots/VeryStrong.png)
 
 ---
 
